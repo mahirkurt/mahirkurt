@@ -1,5 +1,3 @@
-# readme
-About Me
 <h1 align="center">Hi 👋, I'm Mahir</h1>
 <h3 align="center">A passionate SaaS reviewer from Turkiye</h3>
 
