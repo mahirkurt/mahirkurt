@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mahir</h1>
-<h3 align="center">A passionate SaaS reviewer from Turkiye</h3>
 
 <p align="left"> <a href="https://twitter.com/mahirkurt" target="blank"><img src="https://img.shields.io/twitter/follow/mahirkurt?logo=twitter&style=for-the-badge" alt="mahirkurt" /></a> </p>
 
